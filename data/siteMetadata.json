@@ -1,0 +1,17 @@
+{
+  "title": "Gavin Crowley - .NET Engineer",
+  "author": "Gavin Crowley",
+  "headerTitle": "Gavin Crowley",
+  "description": "",
+  "language": "en-us",
+  "siteUrl": "https://www.gavin-crowley.com",
+  "siteRepo": "https://github.com/gavin-crowley/gavin-crowley.com",
+  "image": "/static/img/gavin-profile.png",
+  "socialBanner": "/static/img/twitter-card.png",
+  "email": "gavincrowley@gmail.com",
+  "github": "https://github.com/gavin-crowley",
+  "twitter": "https://twitter.com/gavinxcrowley",
+  "linkedin": "https://www.linkedin.com/in/gavin-crowley",
+  "locale": "en-US",
+  "canonical": "https://www.gavin-crowley.com"
+}
