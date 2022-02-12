@@ -8,7 +8,7 @@ import Welcome from '@/components/Welcome'
 import Subscribe from '@/components/Subscribe'
 import Work from '@/components/Work'
 import Clients from '@/components/Clients'
-import { RoughNotation } from 'react-rough-notation'
+// import { RoughNotation } from 'react-rough-notation'
 import projectsData from '@/data/projectsData'
 import Card from '@/components/Card'
 
