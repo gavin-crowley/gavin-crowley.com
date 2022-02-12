@@ -1,23 +1,10 @@
 import Image from 'next/image'
-// import { RoughNotation } from 'react-rough-notation'
 
 export default function Work() {
   return (
     <>
       <div className="py-6">
-        <h1 className="text-center ">
-          {/* <RoughNotation
-            animate="true"
-            animationDelay="1000"
-            animationDuration="4000"
-            type="box"
-            color="#0ea4e9"
-            show={true}
-            strokeWidth="3"
-          > */}
-            Clients I worked with{' '}
-          {/* </RoughNotation> */}
-        </h1>
+        <h1 className="text-center ">Clients I worked with</h1>
       </div>
       <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-4 text-center justify-center">
         <div>

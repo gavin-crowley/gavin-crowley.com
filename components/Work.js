@@ -1,23 +1,9 @@
-// import { RoughNotation } from 'react-rough-notation'
-
 export default function Work() {
   return (
     <>
       <div className="py-6">
         <div>
-          <h1 className="text-center pb-4">
-            {/* <RoughNotation
-              animate="true"
-              animationDelay="1000"
-              animationDuration="4000"
-              type="box"
-              color="#0ea4e9"
-              show={true}
-              strokeWidth="3"
-            > */}
-              Things I do
-            {/* </RoughNotation> */}
-          </h1>
+          <h1 className="text-center pb-4">Things I do</h1>
         </div>
         <div className="margin:0 grid gap-10 md:grid-cols-2 lg:grid-cols-3 text-center">
           <div>
