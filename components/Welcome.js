@@ -30,7 +30,7 @@ export default function Welcome() {
           <p>
             I also experiment with digital products, life design and emerging technology. Feel free
             to learn more <Link href="/about">about me</Link>, ping me on{' '}
-            <a href="https://twitter.com/sokirill">Twitter</a> or sign-up for my occasional essays
+            <a href="https://twitter.com/gavin-crowley">Twitter</a> or sign-up for my occasional essays
             on life and work.
           </p>
         </div>
