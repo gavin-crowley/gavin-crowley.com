@@ -1,7 +1,6 @@
 import siteMetadata from '@/data/siteMetadata'
 import Icon from '@/components/icons'
 import Image from 'next/image'
-// import { RoughNotation } from 'react-rough-notation'
 import Link from 'next/link'
 
 export default function Welcome() {
