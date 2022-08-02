@@ -1,7 +1,7 @@
 ---
 name: Gavin Crowley
 avatar: /static/img/gavin-profile.png
-occupation: Software Engineer
+occupation: JavaScript Developer
 company: Freelance
 email: gavincrowley@gmail.com
 twitter: https://twitter.com/gavin-crowley
@@ -11,7 +11,7 @@ github: https://github.com/gavin-crowley
 
 ![gavin guitar](/static/img/gavin-guitar.jpg)
 
-I'm a web developer specialised in the development of React apps and websites for both mobile and web. I also have experience with WordPress.
+I'm a JavaScript developer specialised in the development of React apps and websites. I also have experience with WordPress.
 
 In a previous life I worked as a data analyst with Apple but the web called me and I now love to craft quality web experiences.
 

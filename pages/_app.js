@@ -1,4 +1,5 @@
 import '@/css/tailwind.css'
+import './resume.css'
 
 import { ThemeProvider } from 'next-themes'
 import Head from 'next/head'

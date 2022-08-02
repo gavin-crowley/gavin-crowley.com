@@ -1,5 +1,5 @@
 {
-  "title": "Gavin Crowley - .NET Engineer",
+  "title": "Gavin Crowley - JavaScript Developer",
   "author": "Gavin Crowley",
   "headerTitle": "Gavin Crowley",
   "description": "",
@@ -13,5 +13,6 @@
   "twitter": "https://twitter.com/gavinxcrowley",
   "linkedin": "https://www.linkedin.com/in/gavin-crowley",
   "locale": "en-US",
-  "canonical": "https://www.gavin-crowley.com"
+  "canonical": "https://www.gavin-crowley.com",
+  "resumeImage": "/static/img/jv-cv.PNG"
 }
